@@ -35,7 +35,7 @@ This project analyzes used car sales data to understand pricing patterns and mar
 
 ### 📁 Files Included
 
-* `Car_Sales_Data.xlsx` – Raw dataset
+* `Car_Sales_Data.xlsx` – Dataset Used for Analysis
 * `Car_Market_Dashboard.pbix` – Power BI dashboard
 
 ---
