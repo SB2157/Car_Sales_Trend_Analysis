@@ -1,11 +1,7 @@
-
----
-
 ## 🚗 Car Market Trends : Drive Smarter
 
 This project analyzes used car sales data to understand pricing patterns and market behavior, and to extract meaningful insights using ETL processes, Excel, and Power BI.
 
----
 
 ### 📊 Tools & Technologies Used
 
